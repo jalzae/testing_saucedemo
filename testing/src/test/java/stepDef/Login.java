@@ -62,9 +62,8 @@ public class Login {
   @When("click login button")
   public void click_login_button() {
     WebElement submit = driver.findElement(By.id("login-button"));
-    submit.click();
-
     Assert.assertTrue("Login button is  displayed.", submit.isDisplayed());
+    submit.click();
   }
 
   @Then("will be show error message to require the form")
@@ -98,8 +97,6 @@ public class Login {
 
   @Then("home page will be displayed")
   public void home_page_will_be_displayed() {
-    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
     String expectedURL = baseUrl + "inventory.html";
 
     driver.getCurrentUrl().equals(expectedURL);
