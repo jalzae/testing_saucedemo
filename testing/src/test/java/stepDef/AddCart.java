@@ -95,7 +95,7 @@ public class AddCart {
       int itemCount = cartItems.size();
       System.out.println("Number of cart items: " + itemCount);
       Assert.assertEquals(itemCount, 1);
-
+      driverHelper.driverClose();
     } catch (Exception e) {
       System.out.println(e);
       throw new io.cucumber.java.PendingException();
