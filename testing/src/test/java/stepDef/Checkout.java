@@ -24,8 +24,8 @@ public class Checkout {
     throw new io.cucumber.java.PendingException();
   }
 
-  @Then("check the number on cart detail")
-  public void check_the_number_on_cart_detail() {
+  @Then("check the number on cart details")
+  public void check_the_number_on_cart_details() {
     // Write code here that turns the phrase above into concrete actions
     throw new io.cucumber.java.PendingException();
   }
