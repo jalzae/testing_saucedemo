@@ -7,6 +7,6 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/java/feature", glue = "stepDef")
 
-public class runLogin {
+public class runTest {
 
 }
