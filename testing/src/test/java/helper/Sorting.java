@@ -17,4 +17,10 @@ public class Sorting {
     }
     return itemNamesText;
   }
+
+  public void clickFirstItem(WebDriver driver) {
+    WebElement firstItemName = driver.findElement(By.className("inventory_item_name"));
+    WebElement firstAddToCartButton = firstItemName.findElement(By.xpath("../following-sibling::div/button"));
+    firstAddToCartButton.click();
+  }
 }
