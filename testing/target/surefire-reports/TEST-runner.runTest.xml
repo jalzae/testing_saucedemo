@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runner.runTest" time="29.826" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runner.runTest" time="38.206" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="webdriver.chrome.driver" value="C:\Users\LENOVO L380\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="D:\System\Java\jdk-17.0.8.101-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\LENOVO L380\AppData\Local\Temp\surefire9692831393219060175\surefirebooter-20231022202008529_3.jar C:\Users\LENOVO L380\AppData\Local\Temp\surefire9692831393219060175 2023-10-22T20-20-08_238-jvmRun1 surefire-20231022202008529_1tmp surefire_0-20231022202008529_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\LENOVO L380\AppData\Local\Temp\surefire5511875312257291724\surefirebooter-20231022233303535_3.jar C:\Users\LENOVO L380\AppData\Local\Temp\surefire5511875312257291724 2023-10-22T23-33-03_244-jvmRun1 surefire-20231022233303535_1tmp surefire_0-20231022233303535_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Bootcamp\SQA - Rakamin\Tugas\Tugas6\tugass6\testing\target\test-classes;D:\Bootcamp\SQA - Rakamin\Tugas\Tugas6\tugass6\testing\target\classes;C:\Users\LENOVO L380\.m2\repository\io\cucumber\cucumber-junit\7.14.0\cucumber-junit-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\LENOVO L380\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\LENOVO L380\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\LENOVO L380\.m2\repository\io\cucumber\cucumber-java\7.14.0\cucumber-java-7.14.0.jar;C:\Users\LENOVO L380\.m2\repository\net\sf\opencsv\opencsv\2.3\opencsv-2.3.jar;C:\Users\LENOVO L380\.m2\repository\io\github\bonigarcia\webdrivermanager\5.5.3\webdrivermanager-5.5.3.jar;C:\Users\LENOVO L380\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\LENOVO L380\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\LENOVO L380\.m2\repository\com\github\docker-java\docker-java\3.3.3\docker-java-3.3.3.jar;C:\Users\LENOVO L380\.m2\repository\com\github\docker-java\docker-java-core\3.3.3\docker-java-core-3.3.3.jar;C:\Users\LENOVO L380\.m2\repository\com\github\docker-java\docker-java-api\3.3.3\docker-java-api-3.3.3.jar;C:\Users\LENOVO L380\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\LENOVO L380\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar;C:\Users\LENOVO L380\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\LENOVO L380\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\LENOVO L380\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\LENOVO L380\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.75\bcpkix-jdk18on-1.75.jar;C:\Users\LENOVO L380\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.75\bcprov-jdk18on-1.75.jar;C:\Users\LENOVO L380\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.75\bcutil-jdk18on-1.75.jar;C:\Users\LENOVO L380\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\LENOVO L380\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.3\docker-java-transport-httpclient5-3.3.3.jar;C:\Users\LENOVO L380\.m2\repository\com\github\docker-java\docker-java-transport\3.3.3\docker-java-transport-3.3.3.jar;C:\Users\LENOVO L380\.m2\repository\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\LENOVO L380\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\LENOVO L380\.m2\repository\org\apache\commons\commons-lang3\3.13.0\commons-lang3-3.13.0.jar;C:\Users\LENOVO L380\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\LENOVO L380\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\LENOVO L380\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\LENOVO L380\.m2\repository\org\junit\vintage\junit-vintage-engine\5.10.0\junit-vintage-engine-5.10.0.jar;C:\Users\LENOVO L380\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\LENOVO L380\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\LENOVO L380\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-java\4.14.1\selenium-java-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-api\4.14.1\selenium-api-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.14.1\selenium-chrome-driver-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\LENOVO L380\.m2\repository\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;C:\Users\LENOVO L380\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\LENOVO L380\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\LENOVO L380\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\LENOVO L380\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;C:\Users\LENOVO L380\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\LENOVO L380\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.14.1\selenium-chromium-driver-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-json\4.14.1\selenium-json-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.14.1\selenium-manager-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v116\4.14.1\selenium-devtools-v116-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v117\4.14.1\selenium-devtools-v117-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v118\4.14.1\selenium-devtools-v118-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.14.1\selenium-devtools-v85-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.14.1\selenium-edge-driver-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.14.1\selenium-firefox-driver-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-http\4.14.1\selenium-http-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.14.1\selenium-ie-driver-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.14.1\selenium-remote-driver-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-api\1.28.0\opentelemetry-api-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-context\1.28.0\opentelemetry-context-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.28.0\opentelemetry-exporter-logging-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.28.0\opentelemetry-sdk-metrics-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.28.0-alpha\opentelemetry-extension-incubator-1.28.0-alpha.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.28.0\opentelemetry-sdk-logs-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.28.0\opentelemetry-sdk-common-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.28.0\opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.28.0\opentelemetry-sdk-extension-autoconfigure-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.28.0-alpha\opentelemetry-api-events-1.28.0-alpha.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.28.0\opentelemetry-sdk-trace-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.28.0\opentelemetry-sdk-1.28.0.jar;C:\Users\LENOVO L380\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.28.0-alpha\opentelemetry-semconv-1.28.0-alpha.jar;C:\Users\LENOVO L380\.m2\repository\net\bytebuddy\byte-buddy\1.14.5\byte-buddy-1.14.5.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-os\4.14.1\selenium-os-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.14.1\selenium-safari-driver-4.14.1.jar;C:\Users\LENOVO L380\.m2\repository\org\seleniumhq\selenium\selenium-support\4.14.1\selenium-support-4.14.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\LENOVO L380\AppData\Local\Temp\surefire9692831393219060175\surefirebooter-20231022202008529_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LENOVO L380\AppData\Local\Temp\surefire5511875312257291724\surefirebooter-20231022233303535_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.8.1+1"/>
@@ -58,13 +58,21 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="Login and try to add to cart" classname="Add to Cart Product On Application" time="6.26">
-    <system-out><![CDATA[Number of cart items: 1
+  <testcase name="Login and try to add to cart" classname="Add to Cart Product On Application" time="11.347">
+    <system-out><![CDATA[
+@Regression @Positive
+Scenario: Login and try to add to cart                &amp#27;[90m# src/test/java/feature/login/addcart.feature:4&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32maccess saucedemo then get login to inventorys&amp#27;[0m &amp#27;[90m# stepDef.AddCart.access_saucedemo_then_get_login_to_inventorys()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mscrap all inventory item names&amp#27;[0m                 &amp#27;[90m# stepDef.AddCart.scrap_all_inventory_item_names()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32madd to product on carts&amp#27;[0m                        &amp#27;[90m# stepDef.AddCart.add_to_product_on_carts()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mcheck the number on cart detail&amp#27;[0m                &amp#27;[90m# stepDef.AddCart.check_the_number_on_cart_detail()&amp#27;[0m
+Number of cart items: 1
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32maccess cart page and get item counts&amp#27;[0m           &amp#27;[90m# stepDef.AddCart.access_cart_page_and_get_item_counts()&amp#27;[0m
 ]]></system-out>
     <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-Oct 22, 2023 8:20:16 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+Oct 22, 2023 11:33:16 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
@@ -85,14 +93,22 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="Login can checkout the items on cart" classname="Checkout Product On Application" time="6.83">
-    <system-out><![CDATA[Number of cart items: 1
+  <testcase name="Login can checkout the items on cart" classname="Checkout Product On Application" time="5.593">
+    <system-out><![CDATA[
+@Regression @Positive
+Scenario: Login can checkout the items on cart       &amp#27;[90m# src/test/java/feature/login/checkout.feature:4&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32maccess saucedemo then get login to inventory&amp#27;[0m &amp#27;[90m# stepDef.Checkout.access_saucedemo_then_get_login_to_inventory()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mscrap all inventory item name&amp#27;[0m                 &amp#27;[90m# stepDef.Checkout.scrap_all_inventory_item_name()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32madd to product on cart&amp#27;[0m                        &amp#27;[90m# stepDef.Checkout.add_to_product_on_cart()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mcheck the number on cart details&amp#27;[0m              &amp#27;[90m# stepDef.Checkout.check_the_number_on_cart_details()&amp#27;[0m
+Number of cart items: 1
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32maccess cart page and get item count&amp#27;[0m           &amp#27;[90m# stepDef.Checkout.access_cart_page_and_get_item_count()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mclick checkout button&amp#27;[0m                         &amp#27;[90m# stepDef.Checkout.click_checkout_button()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mfill the form correctly&amp#27;[0m                       &amp#27;[90m# stepDef.Checkout.fill_the_form_correctly()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mgo to checkout step two pages&amp#27;[0m                 &amp#27;[90m# stepDef.Checkout.go_to_checkout_step_two_pages()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mgo to checkout complete&amp#27;[0m                       &amp#27;[90m# stepDef.Checkout.go_to_checkout_complete()&amp#27;[0m
 ]]></system-out>
-  </testcase>
-  <testcase name="Show error when user not enter info on CO" classname="Checkout Product On Application" time="4.195">
-    <system-out><![CDATA[Number of cart items: 1
-]]></system-out>
-    <system-err><![CDATA[Oct 22, 2023 8:20:27 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+    <system-err><![CDATA[Oct 22, 2023 11:33:22 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
@@ -113,14 +129,21 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="Login to saucedemo.com as valid users" classname="Log in in the application" time="3.379">
-    <system-out><![CDATA[Swag Labs
+  <testcase name="Show error when user not enter info on CO" classname="Checkout Product On Application" time="5.179">
+    <system-out><![CDATA[
+@Regression @Negative
+Scenario: Show error when user not enter info on CO  &amp#27;[90m# src/test/java/feature/login/checkout.feature:16&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32maccess saucedemo then get login to inventory&amp#27;[0m &amp#27;[90m# stepDef.Checkout.access_saucedemo_then_get_login_to_inventory()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mscrap all inventory item name&amp#27;[0m                 &amp#27;[90m# stepDef.Checkout.scrap_all_inventory_item_name()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32madd to product on cart&amp#27;[0m                        &amp#27;[90m# stepDef.Checkout.add_to_product_on_cart()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mcheck the number on cart details&amp#27;[0m              &amp#27;[90m# stepDef.Checkout.check_the_number_on_cart_details()&amp#27;[0m
+Number of cart items: 1
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32maccess cart page and get item count&amp#27;[0m           &amp#27;[90m# stepDef.Checkout.access_cart_page_and_get_item_count()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mclick checkout button&amp#27;[0m                         &amp#27;[90m# stepDef.Checkout.click_checkout_button()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mfill the form uncorrectly&amp#27;[0m                     &amp#27;[90m# stepDef.Checkout.fill_the_form_uncorrectly()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mshow error require&amp#27;[0m                            &amp#27;[90m# stepDef.Checkout.show_error_require()&amp#27;[0m
 ]]></system-out>
-  </testcase>
-  <testcase name="Login to saucedemo.com as invalid users" classname="Log in in the application" time="2.959">
-    <system-out><![CDATA[Swag Labs
-]]></system-out>
-    <system-err><![CDATA[Oct 22, 2023 8:20:33 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+    <system-err><![CDATA[Oct 22, 2023 11:33:27 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
 WARNING: Connection reset
 java.net.SocketException: Connection reset
 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
@@ -141,9 +164,85 @@ java.net.SocketException: Connection reset
 
 ]]></system-err>
   </testcase>
-  <testcase name="Login without fill the form" classname="Log in in the application" time="2.682">
-    <system-out><![CDATA[Swag Labs
+  <testcase name="Login to saucedemo.com as valid users" classname="Log in in the application" time="4.927">
+    <system-out><![CDATA[
+@Regression @Positive
+Scenario: Login to saucedemo.com as valid users &amp#27;[90m# src/test/java/feature/login/login.feature:4&amp#27;[0m
+Swag Labs
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32maccess saucedemo&amp#27;[0m                        &amp#27;[90m# stepDef.Login.access_saucedemo()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32muser enter right username and password&amp#27;[0m   &amp#27;[90m# stepDef.Login.user_enter_right_username_and_password()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mclick login button&amp#27;[0m                       &amp#27;[90m# stepDef.Login.click_login_button()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mhome page will be displayed&amp#27;[0m              &amp#27;[90m# stepDef.Login.home_page_will_be_displayed()&amp#27;[0m
 ]]></system-out>
   </testcase>
-  <testcase name="Sorting item on Inventory Page" classname="Sorting Product On Application" time="3.413"/>
+  <testcase name="Login to saucedemo.com as invalid users" classname="Log in in the application" time="3.953">
+    <system-out><![CDATA[
+@Regression @Negative
+Scenario: Login to saucedemo.com as invalid users       &amp#27;[90m# src/test/java/feature/login/login.feature:11&amp#27;[0m
+Swag Labs
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32maccess saucedemo&amp#27;[0m                                &amp#27;[90m# stepDef.Login.access_saucedemo()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mUser have no right validation and enter the form&amp#27;[0m &amp#27;[90m# stepDef.Login.User_have_no_right_validation_and_enter_the_form()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mclick login button&amp#27;[0m                               &amp#27;[90m# stepDef.Login.click_login_button()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mWill be error message validation&amp#27;[0m                 &amp#27;[90m# stepDef.Login.Will_be_error_message_validation()&amp#27;[0m
+]]></system-out>
+    <system-err><![CDATA[Oct 22, 2023 11:33:36 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1170)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:833)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:774)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:957)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:979)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:934)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:934)
+
+]]></system-err>
+  </testcase>
+  <testcase name="Login without fill the form" classname="Log in in the application" time="3.308">
+    <system-out><![CDATA[
+@Regression @Negative
+Scenario: Login without fill the form                 &amp#27;[90m# src/test/java/feature/login/login.feature:18&amp#27;[0m
+Swag Labs
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32maccess saucedemo&amp#27;[0m                              &amp#27;[90m# stepDef.Login.access_saucedemo()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mclick login button&amp#27;[0m                             &amp#27;[90m# stepDef.Login.click_login_button()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mwill be show error message to require the form&amp#27;[0m &amp#27;[90m# stepDef.Login.will_be_show_error_message_to_require_the_form()&amp#27;[0m
+]]></system-out>
+  </testcase>
+  <testcase name="Sorting item on Inventory Page" classname="Sorting Product On Application" time="3.466">
+    <system-out><![CDATA[
+@Regression @Positive
+Scenario: Sorting item on Inventory Page                             &amp#27;[90m# src/test/java/feature/login/sorting.feature:4&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32maccess saucedemo then get login in inventory&amp#27;[0m                 &amp#27;[90m# stepDef.Sorting.access_saucedemo_then_get_login_in_inventory()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mscrap inventory items name&amp#27;[0m                                    &amp#27;[90m# stepDef.Sorting.scrap_inventory_items_name()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mchange sorting z to a and get desc item by alphabet correctly&amp#27;[0m &amp#27;[90m# stepDef.Sorting.change_sorting_z_to_a_and_get_desc_item_by_alphabet_correctly()&amp#27;[0m
+]]></system-out>
+    <system-err><![CDATA[Oct 22, 2023 11:33:43 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1170)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:833)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:774)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:957)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:979)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:934)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:934)
+
+]]></system-err>
+  </testcase>
 </testsuite>
